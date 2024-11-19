@@ -867,7 +867,7 @@ button:not(:disabled) {
     opacity: 1;
 }
 .portfolio-box:hover .portfolio-img:after {
-    background: rgba(220, 161, 103, 0.8);
+    background: rgba(230, 60, 154, 0.8);
 }
 .portfolio-box:hover .portfolio-img>img {
     transform: scale(1.05);
